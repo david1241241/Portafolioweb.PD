@@ -23,10 +23,10 @@ Miniaturas llamativas con texto grande, contraste alto y expresión del creador.
 
 Anuncio en video para redes de un catering con 15 años en el rubro (Huancayo): guion, edición, música y textos.
 
-Video: [videos/](videos/) *(pendiente de subir)*
+Video: [anuncio-eventos-sociales-porras.mp4](videos/anuncio-eventos-sociales-porras.mp4)
 
 ## 4. Video promocional – Grupo Tovar
 
 Presentación de trabajos terminados de vidrios, puertas y muebles de melamina (Huancayo), en vertical y horizontal.
 
-Video: [videos/](videos/) *(pendiente de subir)*
+Video: [promocional-grupo-tovar.mp4](videos/promocional-grupo-tovar.mp4)
